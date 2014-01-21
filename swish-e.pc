@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: swish-e
+Version: 2.4.3
+Description: SWISH-E - Simple Web Indexing System for Humans - Enhanced
+Requires: 
+Libs: -L${libdir} -lswish-e  -lm 
+Cflags: -g -O2 -I${includedir} 

@@ -1,0 +1,23 @@
+Revision history for Perl extension Text::Aspell.
+
+## $Id: Changes,v 1.3 2004/09/01 17:48:56 karman Exp $ ##
+
+0.03  Wed Sep 01, 2004
+
+	Added RankScheme to access the new RankScheme feature.
+	IgnoreTotalWordCountWhenRanking set to 0 in test.config.
+	[karman]
+
+
+0.02  Sun May 02, 2004
+
+	Added access to MetaNames and PropertyNames defined 
+	in the index.
+
+0.01  Mon Oct 14, 2002
+
+	Initial module [moseley]
+
+
+
+

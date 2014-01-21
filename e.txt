@@ -1,0 +1,90 @@
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../../config/depcomp: /usr/bin/sh: No such file or directory
+../../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+make[3]: *** No rule to make target `replace/libreplace.la', needed by `libswish-e.la'.  Stop.
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+../config/depcomp: /usr/bin/sh: No such file or directory
+../config/depcomp: exec: /usr/bin/sh: cannot execute: No such file or directory
+libtool: link: `xmltok.lo' is not a valid libtool object
+libtool: link: `dummy.lo' is not a valid libtool object
+libtool: link: `api.lo' is not a valid libtool object
